@@ -1,3 +1,3 @@
 My personal dotfiles, feel free to use and edit it :D
 
-photo_2021-10-21_22-11-19.jpg
+https://github.com/userf757/sunset-i3-dotfiles/blob/main/photo_2021-10-21_22-11-19.jpg
